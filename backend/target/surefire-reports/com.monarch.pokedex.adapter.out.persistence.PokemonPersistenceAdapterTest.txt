@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.monarch.pokedex.adapter.out.persistence.PokemonPersistenceAdapterTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.684 s -- in com.monarch.pokedex.adapter.out.persistence.PokemonPersistenceAdapterTest

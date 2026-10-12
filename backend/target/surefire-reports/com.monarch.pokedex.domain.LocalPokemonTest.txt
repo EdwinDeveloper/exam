@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.monarch.pokedex.domain.LocalPokemonTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s -- in com.monarch.pokedex.domain.LocalPokemonTest
